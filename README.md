@@ -2,13 +2,12 @@
 # Welcome to my GitHub profile ╰(*°▽°*)╯
 
 ### About Me
-I am a Miami Dade Honors College student. I'm majoring in Computer Information Systems and like to learn about the different branches of Information Technology.
-I will be graduating with my AA in 2025.
+I am a Miami Dade College student earning my Bachelors in Information Systems Technology.
 
-I am interested in Networking and Web Develpoment, and would like to learn more to gain more interests.
+I am interested in Networking and Web Develpoment, and would like to learn more to gain more interests and skills.
 
 ### My Projects
-I an currently learning HTML and CSS to create my website portfolio.
+I have created a portfolio in HTML and CSS.
 
 <!--
 **Requena4416/Requena4416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
