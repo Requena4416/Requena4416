@@ -9,6 +9,8 @@ I am interested in Networking and Web Develpoment, and would like to learn more 
 ### My Projects
 I have created a portfolio in HTML and CSS.
 
+- 🌱 I’m currently learning WebDev through CodePath Web classes (completed WEB101) and indepandantly learning SQL.
+
 <!--
 **Requena4416/Requena4416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
